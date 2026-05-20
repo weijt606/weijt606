@@ -1,7 +1,7 @@
 ### Hi, I'm Wei 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+stranger+%E2%8F%BA;I+build+agents+that+ship;Tools+that+don%27t+try+too+hard;Ideas+that+shouldn%27t+work%E2%80%A6+but+do" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&height=50&lines=Welcome%2C+AI+builder;Let%27s+play+with+AI+together;Welcome+to+Wei%27s+world+of+weird+ideas" alt="typing intro" />
 </p>
 
 ---
