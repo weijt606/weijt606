@@ -1,4 +1,4 @@
-### Hi, I'm weijt 👋
+### Hi, I'm Wei 👋
 
 > Shipping AI agents, tools, and weird ideas.
 > Less hype, more working systems.
