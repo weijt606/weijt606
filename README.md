@@ -13,12 +13,12 @@
 
 #### 🏁 Hackathons
 
-- **[paris-ai-hackathon-2026](https://github.com/weijt606/paris-ai-hackathon-2026)** — Paris AI Hackathon 2026
-- **[berlin-hack-2026](https://github.com/weijt606/berlin-hack-2026)** — Berlin Hack 2026
+- **[paris-ai-hackathon-2026](https://github.com/weijt606/paris-ai-hackathon-2026)** — {Tech: Europe} Paris AI Hackathon
+- **[berlin-hack-2026](https://github.com/weijt606/berlin-hack-2026)** — Big Berlin Hack 2026
 
 #### 🛠 Tools
 
-- **[claude-code-opc-toolkit](https://github.com/weijt606/claude-code-opc-toolkit)** — productivity toolkit for solo Claude Code users
+- **[claude-code-opc-toolkit](https://github.com/weijt606/claude-code-opc-toolkit)** — productivity toolkit for solo Claude Code builders
 - **[owlscope](https://github.com/weijt606/owlscope)** — discover, evaluate, and reuse open-source dev tools
 - **[anti-vibe-writing](https://github.com/weijt606/anti-vibe-writing)** — strips AI tone, markdown clutter, and templated phrasing from drafts
 - **[OpenClaw-on-macOS-for-Multi-User-Sandbox](https://github.com/weijt606/OpenClaw-on-macOS-for-Multi-User-Sandbox)** — secure local OpenClaw sandbox via macOS user isolation
