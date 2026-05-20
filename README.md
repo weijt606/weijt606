@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&height=50&lines=%24+echo+%22Welcome%2C+AI+builder%22;%24+pip+install+weird-ideas;%24+cd+%7E%2Fwei+%26%26+make+magic" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&height=50&lines=%24+echo+%22Welcome%2C+AI+builder%22;%24+pip+install+weird-ideas;%24+cd+%7E%2Fweijt606+%26%26+make+magic" alt="typing intro" />
 </p>
 
 ---
