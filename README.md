@@ -22,6 +22,11 @@
 - **[anti-vibe-writing](https://github.com/weijt606/anti-vibe-writing)** — strips AI tone, markdown clutter, and templated phrasing from drafts
 - **[OpenClaw-on-macOS-for-Multi-User-Sandbox](https://github.com/weijt606/OpenClaw-on-macOS-for-Multi-User-Sandbox)** — secure local OpenClaw sandbox via macOS user isolation
 
+#### 🧩 Apps
+
+- **[podcast2go](https://github.com/weijt606/podcast2go)** — turns any long podcast, video, or article into a short, time-boxed audio digest, read aloud for listening on the go (self-hosted, BYOK)
+- **[ArtWise-ChatGPT-App](https://github.com/weijt606/ArtWise-ChatGPT-App)** — ChatGPT App (Skybridge + MCP) that turns one museum artwork photo into a guided museum trail
+
 #### 🎨 Creative
 
 - **[VibeRave](https://github.com/weijt606/VibeRave)** — live-code rave music by voice and tap, hot-swap patterns mid-beat
