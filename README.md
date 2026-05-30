@@ -7,8 +7,8 @@
 #### 🤖 Agents
 
 - **[polyharness](https://github.com/weijt606/polyharness)** — auto-evolves an agent's prompts, tools, and harness through iterative evaluation
-- **[cuvee](https://github.com/weijt606/cuvee)** — multi-agent wine vintage intelligence for Bordeaux & Burgundy
 - **[ai-agent-map](https://github.com/weijt606/ai-agent-map)** — visual guide to compare AI agents, platforms, and orchestration tools
+- **[agentagora](https://github.com/agentagora)** — open layer for agents to discover, collaborate with, and pay each other safely
 
 #### 🏁 Hackathons
 
@@ -18,12 +18,13 @@
 #### 🛠 Tools
 
 - **[claude-code-opc-toolkit](https://github.com/weijt606/claude-code-opc-toolkit)** — productivity toolkit for solo Claude Code builders
-- **[owlscope](https://github.com/weijt606/owlscope)** — discover, evaluate, and reuse open-source dev tools
 - **[anti-vibe-writing](https://github.com/weijt606/anti-vibe-writing)** — strips AI tone, markdown clutter, and templated phrasing from drafts
 - **[OpenClaw-on-macOS-for-Multi-User-Sandbox](https://github.com/weijt606/OpenClaw-on-macOS-for-Multi-User-Sandbox)** — secure local OpenClaw sandbox via macOS user isolation
 
 #### 🧩 Apps
 
+- **[owlscope](https://github.com/weijt606/owlscope)** — discover, evaluate, and reuse open-source dev tools
+- **[cuvee](https://github.com/weijt606/cuvee)** — multi-agent wine vintage intelligence for Bordeaux & Burgundy
 - **[podcast2go](https://github.com/weijt606/podcast2go)** — turns any long podcast, video, or article into a short, time-boxed audio digest, read aloud for listening on the go (self-hosted, BYOK)
 - **[ArtWise-ChatGPT-App](https://github.com/weijt606/ArtWise-ChatGPT-App)** — ChatGPT App (Skybridge + MCP) that turns one museum artwork photo into a guided museum trail
 
