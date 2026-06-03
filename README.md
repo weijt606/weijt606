@@ -25,9 +25,9 @@
 
 - **[owlscope](https://github.com/weijt606/owlscope)** — discover, evaluate, and reuse open-source dev tools
 - **[cuvee](https://github.com/weijt606/cuvee)** — multi-agent wine vintage intelligence for Bordeaux & Burgundy
-- **[podcast2go](https://github.com/weijt606/podcast2go)** — turns any long podcast, video, or article into a short, time-boxed audio digest, read aloud for listening on the go (self-hosted, BYOK)
+- **[podcast2go](https://github.com/weijt606/podcast2go)** — turns any long podcast, video, or article into a short, time-boxed audio digest
 - **[ArtWise-ChatGPT-App](https://github.com/weijt606/ArtWise-ChatGPT-App)** — ChatGPT App (Skybridge + MCP) that turns one museum artwork photo into a guided museum trail
-- **[livebrief](https://github.com/weijt606/livebrief)** — turns live conversations or recordings into fact-checked, sourced briefs with claim auditing and optional podcast-style audio
+- **[livebrief](https://github.com/weijt606/livebrief)** — turns conversations or recordings into fact-checked, sourced briefs
 
 #### 🎨 Creative
 
@@ -40,6 +40,6 @@
 - **[TokenRice](https://github.com/TokenRice)** — AI-native tools for builders, creators, and teams
 - **[Freead-Life](https://github.com/Freead-Life)** — *字由跳阅*. Chinese reading accessibility for dyslexia & ADHD
 - **[agentagora](https://github.com/agentagora)** — open layer for agent identity, discovery, settlement, and audit
-- **[VCbrain](https://github.com/VCbrain)** — the company brain for venture capital: AI agents for dealflow, portfolio insight, and research-backed diligence (EU data residency)
+- **[VCbrain](https://github.com/VCbrain)** — the company brain for venture capital: AI agents for dealflow, portfolio insight, and diligence
 
 📍 *Transmitting from Mars.*
