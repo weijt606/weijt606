@@ -17,7 +17,7 @@
 
 #### 🛠 Tools
 
-- **[claude-code-opc-toolkit](https://github.com/weijt606/claude-code-opc-toolkit)** — productivity toolkit for solo Claude Code builders
+- **[claude-code-toolkit](https://github.com/weijt606/claude-code-toolkit)** — productivity toolkit for solo Claude Code builders
 - **[anti-vibe-writing](https://github.com/weijt606/anti-vibe-writing)** — strips AI tone, markdown clutter, and templated phrasing from drafts
 - **[OpenClaw-on-macOS-for-Multi-User-Sandbox](https://github.com/weijt606/OpenClaw-on-macOS-for-Multi-User-Sandbox)** — secure local OpenClaw sandbox via macOS user isolation
 
