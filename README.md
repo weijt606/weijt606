@@ -24,6 +24,7 @@
 
 #### 🛠 Tools
 
+- **[ai-hackathon-guide](https://github.com/weijt606/ai-hackathon-guide)** — find events, pick ideas, ship & pitch at AI hackathons (EN/中文)
 - **[claude-code-toolkit](https://github.com/weijt606/claude-code-toolkit)** — productivity kit for solo Claude Code builders
 - **[anti-vibe-writing](https://github.com/weijt606/anti-vibe-writing)** — strips AI tone & template clutter from drafts
 - **[OpenClaw sandbox](https://github.com/weijt606/OpenClaw-on-macOS-for-Multi-User-Sandbox)** — sandboxed OpenClaw via macOS user isolation
@@ -32,7 +33,7 @@
 
 - **[VibeRave](https://github.com/weijt606/VibeRave)** — live-code rave music by voice & tap
 
-🏁 *Hacking IRL at [Paris AI Hackathon](https://github.com/weijt606/paris-ai-hackathon-2026) + [Big Berlin Hack](https://github.com/weijt606/berlin-hack-2026), 2026.*
+🏁 *Hacking IRL at [Paris AI Hackathon](https://github.com/weijt606/paris-ai-hackathon-2026) + [Big Berlin Hack](https://github.com/weijt606/berlin-hack-2026), 2026 — notes distilled into the [guide](https://github.com/weijt606/ai-hackathon-guide).*
 
 ---
 
