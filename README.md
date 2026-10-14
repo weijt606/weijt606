@@ -8,40 +8,40 @@
 
 ---
 
-#### 🤖 Agents
+### Agents
 
-- **[polyharness](https://github.com/weijt606/polyharness)** — agent that rewrites its own prompts, tools & harness on a loop
-- **[ai-agent-map](https://github.com/weijt606/ai-agent-map)** — visual map of the AI agent landscape
-- **[agentagora](https://github.com/agentagora)** — where agents discover, collaborate with & pay each other
+- [polyharness](https://github.com/weijt606/polyharness): agent that rewrites its own prompts, tools and harness on a loop
+- [ai-agent-map](https://github.com/weijt606/ai-agent-map): visual map of the AI agent landscape
+- [agentagora](https://github.com/agentagora): where agents discover, collaborate with and pay each other
 
-#### 🧩 Apps
+### Apps
 
-- **[owlscope](https://github.com/weijt606/owlscope)** — find, evaluate & reuse open-source dev tools
-- **[cuvee](https://github.com/weijt606/cuvee)** — multi-agent sommelier for Bordeaux & Burgundy
-- **[podcast2go](https://github.com/weijt606/podcast2go)** — any podcast, video or article → short audio digest
-- **[ArtWise](https://github.com/weijt606/ArtWise-ChatGPT-App)** — one artwork photo → guided museum trail (ChatGPT App)
-- **[livebrief](https://github.com/weijt606/livebrief)** — talk → fact-checked, sourced brief
+- [owlscope](https://github.com/weijt606/owlscope): find, evaluate and reuse open-source dev tools
+- [cuvee](https://github.com/weijt606/cuvee): multi-agent sommelier for Bordeaux and Burgundy
+- [podcast2go](https://github.com/weijt606/podcast2go): any podcast, video or article turned into a short audio digest
+- [ArtWise](https://github.com/weijt606/ArtWise-ChatGPT-App): one artwork photo, one guided museum trail (ChatGPT App)
+- [livebrief](https://github.com/weijt606/livebrief): talk, then get a fact-checked, sourced brief
 
-#### 🛠 Tools
+### Tools
 
-- **[ai-hackathon-guide](https://github.com/weijt606/ai-hackathon-guide)** — find events, pick ideas, ship & pitch at AI hackathons (EN/中文)
-- **[claude-code-toolkit](https://github.com/weijt606/claude-code-toolkit)** — productivity kit for solo Claude Code builders
-- **[anti-vibe-writing](https://github.com/weijt606/anti-vibe-writing)** — strips AI tone & template clutter from drafts
-- **[OpenClaw sandbox](https://github.com/weijt606/OpenClaw-on-macOS-for-Multi-User-Sandbox)** — sandboxed OpenClaw via macOS user isolation
+- [ai-hackathon-guide](https://github.com/weijt606/ai-hackathon-guide): find events, pick ideas, ship and pitch at AI hackathons (EN / 中文)
+- [claude-code-toolkit](https://github.com/weijt606/claude-code-toolkit): productivity kit for solo Claude Code builders
+- [anti-vibe-writing](https://github.com/weijt606/anti-vibe-writing): strips AI tone and template clutter from drafts
+- [OpenClaw sandbox](https://github.com/weijt606/OpenClaw-on-macOS-for-Multi-User-Sandbox): sandboxed OpenClaw via macOS user isolation
 
-#### 🎨 Creative
+### Creative
 
-- **[VibeRave](https://github.com/weijt606/VibeRave)** — live-code rave music by voice & tap
+- [VibeRave](https://github.com/weijt606/VibeRave): live-code rave music by voice and tap
 
-🏁 *Hacking IRL at [Paris AI Hackathon](https://github.com/weijt606/paris-ai-hackathon-2026) + [Big Berlin Hack](https://github.com/weijt606/berlin-hack-2026), 2026 — notes distilled into the [guide](https://github.com/weijt606/ai-hackathon-guide).*
+Hacking IRL in 2026 at [Paris AI Hackathon](https://github.com/weijt606/paris-ai-hackathon-2026) and [Big Berlin Hack](https://github.com/weijt606/berlin-hack-2026). Notes went into the [guide](https://github.com/weijt606/ai-hackathon-guide).
 
 ---
 
-#### Organizations
+### Organizations
 
-- **[TokenRice](https://github.com/TokenRice)** — AI-native tools for builders & teams
-- **[Freead-Life](https://github.com/Freead-Life)** — *字由跳阅*, reading accessibility for dyslexia & ADHD
-- **[agentagora](https://github.com/agentagora)** — identity, discovery & settlement layer for agents
-- **[VCbrain](https://github.com/VCbrain)** — the company brain for venture capital
+- [TokenRice](https://github.com/TokenRice): AI-native tools for builders and teams
+- [Freead-Life](https://github.com/Freead-Life): 字由跳阅, reading accessibility for dyslexia and ADHD
+- [agentagora](https://github.com/agentagora): identity, discovery and settlement layer for agents
+- [VCbrain](https://github.com/VCbrain): the company brain for venture capital
 
-📍 *Transmitting from Mars.*
+Transmitting from Mars.
