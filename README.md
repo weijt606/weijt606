@@ -32,6 +32,7 @@
 ### Creative
 
 - [VibeRave](https://github.com/weijt606/VibeRave): live-code rave music by voice and tap
+- [GRAVOFF](https://github.com/weijt606/gravoff): anti-gravity car browser game, drive upside down and stick the landing ([play](https://foudreai.com))
 
 Hacking IRL in 2026 at [Paris AI Hackathon](https://github.com/weijt606/paris-ai-hackathon-2026) and [Big Berlin Hack](https://github.com/weijt606/berlin-hack-2026). Notes went into the [guide](https://github.com/weijt606/ai-hackathon-guide).
 
