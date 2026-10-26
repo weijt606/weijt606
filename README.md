@@ -40,7 +40,6 @@ Hacking IRL in 2026 at [Paris AI Hackathon](https://github.com/weijt606/paris-ai
 
 ### Organizations
 
-- [TokenRice](https://github.com/TokenRice): AI-native tools for builders and teams
 - [Freead-Life](https://github.com/Freead-Life): 字由跳阅, reading accessibility for dyslexia and ADHD
 - [agentagora](https://github.com/agentagora): identity, discovery and settlement layer for agents
 - [VCbrain](https://github.com/VCbrain): the company brain for venture capital
