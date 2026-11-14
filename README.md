@@ -28,10 +28,13 @@
 - [claude-code-toolkit](https://github.com/weijt606/claude-code-toolkit): productivity kit for solo Claude Code builders
 - [anti-vibe-writing](https://github.com/weijt606/anti-vibe-writing): strips AI tone and template clutter from drafts
 - [OpenClaw sandbox](https://github.com/weijt606/OpenClaw-on-macOS-for-Multi-User-Sandbox): sandboxed OpenClaw via macOS user isolation
+- [hardstock-design](https://github.com/weijt606/hardstock-design): neo-brutalist design language an agent can apply the same way twice
+- [crypto-trident](https://github.com/weijt606/crypto-trident): crypto quant framework, one strategy codebase for backtest, paper and live
 
 ### Creative
 
 - [VibeRave](https://github.com/weijt606/VibeRave): live-code rave music by voice and tap
+- [VibeRave-Live](https://github.com/weijt606/VibeRave-Live): interactive booth, speak or gesture and AI plays Strudel live on the big screen
 - [GRAVOFF](https://github.com/weijt606/gravoff): anti-gravity car browser game, drive upside down and stick the landing ([play](https://foudreai.com))
 
 Hacking IRL in 2026 at [Paris AI Hackathon](https://github.com/weijt606/paris-ai-hackathon-2026) and [Big Berlin Hack](https://github.com/weijt606/berlin-hack-2026). Notes went into the [guide](https://github.com/weijt606/ai-hackathon-guide).
